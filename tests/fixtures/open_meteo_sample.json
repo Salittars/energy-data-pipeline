@@ -1,0 +1,1 @@
+{"latitude": 53.64, "longitude": 9.99, "timezone": "UTC", "hourly_units": {"time": "iso8601", "wind_speed_100m": "m/s", "temperature_2m": "°C"}, "hourly": {"time": ["2019-03-30T00:00", "2019-03-30T01:00", "2019-03-30T02:00"], "wind_speed_100m": [7.1, 7.4, 6.9], "temperature_2m": [6.2, 5.9, 5.7]}}
